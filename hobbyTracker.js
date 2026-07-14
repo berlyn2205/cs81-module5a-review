@@ -55,5 +55,3 @@ console.log("Focused sessions:", countMood(hobbyLog, "focused"));
 
 
 // Improvement suggestion:
-// A possible improvement would be creating a function that sorts hobbies by total time spent.
-// This would make it easier to analyze which hobbies are practiced the most.
